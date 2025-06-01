@@ -23,23 +23,23 @@ Struktur Folder
 tubes1-IF2211-bot-starter-pack-1.0.1/
 ├── game/
 │   ├── logic/
-│   │   ├── __init__.py              # Inisialisasi modul logic
-│   │   ├── bajaw.py                 # Logika utama bot Bajaw (bot milikmu)
-│   │   ├── base.py                  # Base class untuk bot logic
-│   │   ├── random.py                # Bot logika dasar acak (random)
-│   ├── __init__.py                  # Inisialisasi modul game
-│   ├── api.py                       # Koneksi API ke game engine (POST/GET)
-│   ├── board_handler.py            # Handler untuk manipulasi papan/board
-│   ├── bot_handler.py              # Handler bot (register, move, recover)
-│   ├── models.py                   # Definisi model data seperti Bot, Board
-│   ├── util.py                     # Fungsi utilitas seperti get_direction()
-├── .gitignore                      # Mengabaikan file tertentu di Git
-├── decode.py                       # Dekoder response dari backend API
-├── main.py                         # Entry point untuk menjalankan bot
-├── README.md                       # Dokumentasi utama proyek
-├── requirements.txt                # Daftar dependensi Python
-├── run-bots.bat                    # File batch Windows untuk jalankan bot
-├── run-bots.sh                     # File shell Linux/Mac untuk jalankan bot
+│   │   ├── __init__.py              
+│   │   ├── bajaw.py                 
+│   │   ├── base.py                  
+│   │   ├── random.py                
+│   ├── __init__.py                  
+│   ├── api.py                       
+│   ├── board_handler.py            
+│   ├── bot_handler.py              
+│   ├── models.py                   
+│   ├── util.py                     
+├── .gitignore                      
+├── decode.py                       
+├── main.py                         
+├── README.md                       
+├── requirements.txt                
+├── run-bots.bat                    
+├── run-bots.sh                     
 
 Kelebihan
 -Lebih efektif dalam mengumpulkan poin.
