@@ -21,6 +21,7 @@ Ganti parameter sesuai dengan akun dan nama bot kamu.
 
 Struktur Folder
 tubes1-IF2211-bot-starter-pack-1.0.1/
+<pre></pre>
 ├── game/
 │   ├── logic/
 │   │   ├── __init__.py              
@@ -40,7 +41,7 @@ tubes1-IF2211-bot-starter-pack-1.0.1/
 ├── requirements.txt                
 ├── run-bots.bat                    
 ├── run-bots.sh                     
-
+<pre></pre>
 Kelebihan
 -Lebih efektif dalam mengumpulkan poin.
 -Tidak mengejar diamond sembarangan.
