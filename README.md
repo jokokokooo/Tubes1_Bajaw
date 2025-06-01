@@ -23,7 +23,9 @@ Struktur Folder
 tubes1-IF2211-bot-starter-pack-1.0.1/
 <pre></pre>
 ├── game
+<pre>
 │   ├── logic
+<pre>
 │   │   ├── __init__.py              
 │   │   ├── bajaw.py                 
 │   │   ├── base.py                  
